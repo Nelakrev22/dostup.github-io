@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "notes": "Что нового…",
+  "version": "1.1.2",
+  "notes": "Исправлен учёт облачных ролей доступа; добавлено автоматическое уведомление о новых версиях.",
   "url": "https://raw.githubusercontent.com/Nelakrev22/dostup.github-io/main/Admin%20Helper%20Blaine%20Setup%201.0.0.exe"
 }
